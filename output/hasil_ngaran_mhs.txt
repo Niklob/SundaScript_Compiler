@@ -1,0 +1,7 @@
+HASIL GENERATOR KODE AKHIR (TARGET ASSEMBLY):
+==================================================
+SCAN R1
+STORE ngaran_mhs, R1
+LOAD R2, ngaran_mhs
+PRINT R2
+==================================================

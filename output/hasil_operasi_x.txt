@@ -1,0 +1,7 @@
+HASIL GENERATOR KODE AKHIR (TARGET ASSEMBLY):
+==================================================
+LOAD R1, 15
+STORE x, R1
+LOAD R2, x
+PRINT R2
+==================================================
